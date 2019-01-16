@@ -42,3 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # The favourite things:
 - Being more familiar with VIM.
 - Creating a new Github account.
+```
